@@ -8,7 +8,7 @@ def read_json():
         data = json.load(file)
 
     say_hello()
-    print(data)
+    #print(data)
     return data
 
 if __name__ == "__main__":
